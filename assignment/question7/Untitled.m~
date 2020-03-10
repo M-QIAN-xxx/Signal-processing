@@ -1,0 +1,5 @@
+n = normrnd(0,sqrt(0.3),1,100);
+
+x = cos(1.5*m);
+
+plot(x)
